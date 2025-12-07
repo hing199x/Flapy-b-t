@@ -1,0 +1,5 @@
+{
+  "name": "Flappy AI Bird",
+  "description": "A Flappy Bird clone where AI roasts or praises your score. Controlled via Spacebar or Tap.",
+  "requestFramePermissions": []
+}
